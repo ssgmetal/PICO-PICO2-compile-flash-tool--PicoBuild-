@@ -26,10 +26,15 @@ RP Pico All-in-One Development Tool
 A Qt-based graphical desktop tool exclusively designed for Windows 64-bit systems, dedicated to Raspberry Pi Pico series (RP2040 / RP2350) development. It supports independent project creation and management, local offline compilation, one-click firmware flashing, and serial port debugging with full visual operation and zero command-line input required. Seamlessly integrated with VSCode and fully compatible with the official Raspberry Pi Pico SDK ecosystem, it greatly lowers the embedded development threshold and improves development efficiency for both beginners and experienced developers.
 
 ***
+
 The SDK and precompiled executable program are available for download via the Releases link on the repository homepage.
+
 After downloading, extract the files to your local PC. Please note the SDK folder name must be .pico-sdk.
+
 The executable in the Releases version defaults to Chinese language. You may switch to English from the top-left menu.
+
 Your language selection will be saved in the INI configuration file and loaded automatically on the next launch.
+
 ***
 
 ✨ Core Features
