@@ -6,6 +6,14 @@
   <img width="800" src="2.png">
 </p>
 
+<p align="center">
+  <img width="800" src="3.png">
+</p>
+
+<p align="center">
+  <img width="800" src="4.png">
+</p>
+
 # RP Pico All-in-One Development Tool
 
 I am a big fan of Raspberry Pi Pico and Pico 2. These microcontrollers are incredibly capable.
