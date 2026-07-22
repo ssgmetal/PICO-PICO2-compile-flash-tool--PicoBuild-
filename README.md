@@ -50,6 +50,8 @@ Traditional Raspberry Pi Pico development requires complicated command-line oper
 📄 License
 This project is open-sourced under the MIT License. You are free to use, modify, and distribute the code, and welcome to submit contributions.
 
+⚠️ Note: This tool is not certified for safety-critical industrial applications. Use at your own risk.
+
 🤝 Contribution
 Pull requests, issues, and feature suggestions are highly welcome!
 If you have cooperation or technical communication needs, you can contact me via email:
