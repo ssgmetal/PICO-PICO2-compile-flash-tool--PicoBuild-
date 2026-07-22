@@ -35,8 +35,15 @@ The executable in the Releases version defaults to Chinese language. You may swi
 
 Your language selection will be saved in the INI configuration file and loaded automatically on the next launch.
 
+Alternatively, click the three links below to download files as needed.
 
+pico-sdk-v2.2.0
 https://github.com/ssgmetal/PICO-PICO2-compile-flash-tool-PicoBuild/releases/download/pico-sdk/pico-sdk-v2.2.0.zip
+
+pico-sdk-v2.3.0
+https://github.com/ssgmetal/PICO-PICO2-compile-flash-tool-PicoBuild/releases/download/pico-sdk/pico-sdk-v2.3.0.zip
+
+PicoBuild_64_bit-Release_V2.1.5
 https://github.com/ssgmetal/PICO-PICO2-compile-flash-tool-PicoBuild/releases/download/pico-sdk/PicoBuild_64_bit-Release_V2.1.5.zip
 
 ***
