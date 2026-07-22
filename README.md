@@ -1,10 +1,3 @@
-<p align="center">
-  <img width="800" src="1.png">
-</p>
-
-<p align="center">
-  <img width="800" src="2.png">
-</p>
 
 <p align="center">
   <img width="800" src="3.png">
